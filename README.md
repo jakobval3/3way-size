@@ -1,5 +1,5 @@
 # 3way-size
-a simple responsive site
+a simple responsive site, completely debugged
 able to adjust to all 3 screen sizes that I've got to know in my course
 is responsive
-took me a little extra time because poor time management and life...
+i'm honestly proud of it
